@@ -1,15 +1,15 @@
 # Bakaric-CV
 
-This is my resume. 
+**Here you can find my resume.**
 
 Please do not hesitate to contact me regarding any of the following:
 
-     Code posted on GitHub 
+ - Code posted on GitHub 
      
-     Bioinformatic issues you might have
+ - Bioinformatic issues you might have
 
-     Potential science/industry related project
+ - Potential science/industry related project
 
-     Job opportunities (permanent/contract, part/full time)
+ - Job opportunities (permanent/contract, part/full time)
 
-     Bioinformatic Linux system administration 
+ - Bioinformatic Linux system administration 
