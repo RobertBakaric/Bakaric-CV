@@ -8,7 +8,7 @@ Please do not hesitate to contact me regarding any of the following:
      
  - Bioinformatic issues you might have
 
- - Potential science/industry related project
+ - Potential science/industry related projects
 
  - Job opportunities (permanent/contract, part/full time)
 
